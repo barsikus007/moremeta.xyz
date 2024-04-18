@@ -1,3 +1,3 @@
-# yesmeta
+# MOREMETA.XYZ
 Проект по сбору датасета мета-вопросов
-(объективно улучшеный форк [leshark/nometa](https://github.com/leshark/nometa))
+(объективно улучшенный форк улучшенного форка [leshark/nometa](https://github.com/leshark/nometa))
